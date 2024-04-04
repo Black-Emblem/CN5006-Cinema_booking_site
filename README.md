@@ -67,10 +67,10 @@ Installation Steps:
 
 ## Usage
 
-Deployment Notes
+Deployment Notes:
 
-    The admin section, as mentioned, is in a very early development stage. It might require manual setup or direct database interactions for full functionality.
-    Since this is a project from 2021, certain dependencies or PHP versions might need to be adjusted according to the server environment's compatibility.
+The admin section, as mentioned, is in a very early development stage. It might require manual setup or direct database interactions for full functionality.
+Since this is a project from 2021, certain dependencies or PHP versions might need to be adjusted according to the server environment's compatibility.
 
 ## Contributing
 
