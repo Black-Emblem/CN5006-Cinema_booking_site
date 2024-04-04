@@ -29,9 +29,9 @@ Prerequisites
 
 Before you start, ensure you have:
 
-    A local server environment that supports PHP (e.g., XAMPP, MAMP, WAMP, or LAMP) is installed on your machine.
-    A text editor or IDE (Integrated Development Environment) to view and edit the project files.
-    MariaDB (or MySQL) for the database. Typically, this comes bundled with the server environments mentioned above.
+A local server environment that supports PHP (e.g., XAMPP, MAMP, WAMP, or LAMP) is installed on your machine.
+A text editor or IDE (Integrated Development Environment) to view and edit the project files.
+MariaDB (or MySQL) for the database. Typically, this comes bundled with the server environments mentioned above.
 
 Installation Steps:
 
